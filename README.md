@@ -134,3 +134,7 @@ If classified as an attack, it further identifies the type, such as:
 This project demonstrates the application of machine learning techniques for detecting network intrusions. The stacking ensemble model improves detection accuracy and provides reliable classification of network traffic. The system can be extended further for real world deployment and advanced threat detection.
 
 ---
+##Note
+“Make sure MySQL server is running before starting the application”
+
+---
